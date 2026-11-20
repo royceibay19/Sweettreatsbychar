@@ -1,0 +1,251 @@
+I want to create a beautiful website for my wife, who has a passion for baking cakes, pastries, and other delicious homemade treats. For me, this website is more than just a business website. It's a way to showcase her talent, creativity, dedication, and the love she puts into every creation she makes.
+
+My goal is to build a website where people can discover her baked creations, explore our products, see beautiful photos of her cakes and pastries, and easily place orders or inquire about custom cakes for birthdays, weddings, anniversaries, and other special occasions.
+
+I want the website to have a warm, elegant, cozy, and welcoming feel. Something that reflects the heart behind her baking. I want visitors to feel that every cake is made with love, care, and attention to detail. The website should not just sell cakes, but also tell a story and create a connection with people who appreciate homemade baked goods.
+
+I want the design to be modern, clean, elegant, visually stunning, and easy to navigate on both mobile phones and desktops. I want the photos, colors, typography, animations, and overall layout to make the website feel special, memorable, and professional without losing the warmth and personal touch of a home baking business.
+
+I also want to include a product gallery, cake and pastry menu, pricing, custom order options, customer testimonials, an About Us section that tells her story, and an easy way for customers to contact us or place orders.
+
+My dream is to help my wife's baking passion grow, reach more people, and turn something she truly loves into a business she can be proud of. I want this website to be something that represents her hard work and the love she shares through every cake she bakes.
+
+Please help me create a website that feels personal, beautiful, professional, and full of heart — a website that makes people fall in love with her creations even before they take their first bite.
+
+-------------------------------------------------------------
+
+I want you to act as a world-class web designer, creative director, branding expert, UI/UX designer, and senior frontend developer.
+
+I want you to create an extraordinary, premium, and visually distinctive website for my wife's home baking business. I don't want a generic bakery template. I want something that feels carefully designed, emotionally meaningful, visually unforgettable, and capable of competing with premium cake boutique websites.
+
+Before you begin designing or coding, I want you to explore and study our Facebook page to understand the identity, personality, products, photos, baking style, brand colors, and overall atmosphere of our business.
+
+FACEBOOK PAGE:
+https://www.facebook.com/people/Sweet-Treats-by-Char/100083340789131/
+
+### 1. Understand our brand first
+
+Study our Facebook page and use the available content to understand:
+
+Our cakes, pastries, desserts, and other baked products.
+The actual photos of our creations.
+Our baking style and presentation.
+Our existing brand identity, logo, colors, and personality.
+The type of customers we attract.
+The feeling and story behind our baking business.
+
+Use our actual products and photos as the visual foundation of the website whenever possible. Do not invent products, customer reviews, awards, business history, or claims that aren't supported by the information available.
+
+If you cannot directly access our Facebook page or its photos, tell me exactly what you need. I can provide screenshots, uploaded photos, or other information. Do not pretend that you have accessed content you cannot see.
+
+### 2. The vision for the website
+
+I want this website to feel like a premium artisan bakery and cake boutique.
+
+I want a design that is:
+
+Elegant and premium.
+Warm, romantic, and welcoming.
+Modern and visually stunning.
+Creative and different from typical bakery websites.
+Minimalist but not boring.
+Emotional and storytelling-driven.
+Beautiful on mobile, tablet, and desktop.
+
+Think of the visual experience of a luxury pastry boutique combined with the warmth of a small baking business built with love.
+
+Don't simply copy another website. Create an original design identity that fits our own business.
+
+### 3. Creative direction
+
+Create a unique visual style using:
+
+Beautiful editorial typography.
+Elegant serif fonts combined with clean modern sans-serif fonts.
+Warm cream, soft beige, muted pink, chocolate brown, or other colors that genuinely complement our products and brand.
+Large, high-quality cake photography.
+Creative image cropping and overlapping compositions.
+Generous white space.
+Subtle shadows and refined details.
+Smooth scrolling.
+Elegant transitions and micro-animations.
+Creative section layouts instead of repetitive cards everywhere.
+Beautiful buttons, navigation, and interactions.
+
+The website should feel like a carefully crafted brand experience, not a basic template.
+
+### 4. Website structure
+
+Build a complete website with the following sections:
+
+**A. Homepage / Hero Section**
+
+Create a breathtaking first impression.
+
+I want the hero section to immediately showcase our best cakes with beautiful photography, a compelling headline, and a short emotional brand message.
+
+Make it visually striking and different from the typical bakery homepage.
+
+Include clear calls to action such as:
+- Explore Our Cakes
+- Order Your Cake
+
+**B. Our Story**
+
+Create a beautiful storytelling section about the passion behind our baking.
+
+Make it personal, warm, and authentic. Do not invent personal details. Use placeholders if our story is not yet provided.
+
+The purpose is to make customers feel connected to the person behind the cakes.
+
+**C. Our Signature Creations**
+
+Showcase our best and most beautiful products.
+
+Create a premium gallery with beautiful layouts, not just ordinary square product cards.
+
+Each product should have:
+- Product name.
+- Beautiful image.
+- Short description.
+- Price, if available.
+- Order or inquiry button.
+
+**D. Cake Collection**
+
+Create a dedicated section for different cake categories, such as:
+- Birthday Cakes.
+- Customized Cakes.
+- Wedding Cakes.
+- Anniversary Cakes.
+- Bento Cakes.
+- Celebration Cakes.
+
+Only include categories that are relevant to our actual products, and allow me to easily add or remove categories.
+
+**E. Pastries and Other Treats**
+
+Showcase our other baked goods, such as cookies, cupcakes, brownies, pastries, or other products we actually offer.
+
+Make this section visually attractive and easy to browse.
+
+**F. Custom Cake Experience**
+
+Create an elegant section where customers can inquire about customized cakes.
+
+Include a clear explanation that customers can request their preferred cake design, occasion, size, flavors, and other details.
+
+Create an easy inquiry experience.
+
+**G. Gallery**
+
+Create a beautiful visual gallery showcasing our real baking creations.
+
+The gallery should feel like an editorial food photography portfolio.
+
+Include smooth transitions and a visually appealing layout.
+
+**H. Customer Testimonials**
+
+Create a beautiful testimonial section.
+
+Use only actual customer reviews if they are available. If not, create placeholders clearly labeled as sample content that I can replace.
+
+**I. How to Order**
+
+Make the ordering process simple and clear.
+
+For example:
+1. Browse our creations.
+2. Choose a cake or request a customized design.
+3. Send us your order details.
+4. Confirm your order with us.
+
+Adjust this to our actual ordering process if information is available.
+
+**J. Contact and Ordering**
+
+Make it easy for customers to contact us.
+
+Include our actual available contact details, social media links, ordering channels, and other relevant information.
+
+If we don't have a website ordering system yet, make the inquiry buttons direct customers to our Facebook Messenger or another contact method that I can configure.
+
+**K. Footer**
+
+Create an elegant footer with:
+- Brand name and logo.
+- Social media links.
+- Contact information.
+- Navigation links.
+- A beautiful closing brand message.
+
+### 5. Website features and functionality
+
+I want the website to be functional, not just beautiful.
+
+Implement:
+
+Responsive design for mobile, tablet, and desktop.
+Mobile-friendly navigation.
+Smooth scrolling.
+Interactive product gallery.
+Product category filtering, if appropriate.
+Product detail views, if appropriate.
+Functional ordering and inquiry buttons.
+Facebook integration through links where appropriate.
+Messenger inquiry functionality if a valid link is available.
+WhatsApp functionality if applicable and configured.
+Contact and custom order forms.
+Form validation.
+Beautiful loading and transition effects.
+Accessible design.
+SEO-friendly structure.
+Fast loading performance.
+Easy-to-maintain product data.
+
+If a feature requires an external service, API, database, or credentials, explain what is needed and implement the best practical alternative without pretending that the integration is already connected.
+
+### 6. Technical implementation
+
+Build the actual website, not just a design concept.
+
+Choose the most appropriate modern frontend technologies available in your working environment.
+
+Use clean, organized, reusable code.
+
+Make the design feel polished and production-ready.
+
+Avoid unnecessary dependencies.
+
+Ensure the website works properly and that buttons, navigation, forms, and interactions behave as expected.
+
+If you are working in an environment where you can preview the website, use the preview to inspect your work and improve it.
+
+### 7. Your creative freedom
+
+I am giving you creative freedom to make design decisions that will make this website truly special.
+
+Don't be afraid to experiment with elegant layouts, typography, image compositions, subtle motion, and unexpected design details.
+
+I don't want a website that looks like it was generated from a generic AI template.
+
+I want you to think like a professional creative agency that is building a beautiful online brand for a real person with a real passion for baking.
+
+Prioritize emotional connection, aesthetics, user experience, and functionality.
+
+### 8. Final goal
+
+The final website should make someone visiting for the first time think:
+
+"These cakes are beautiful. I can feel the love and care behind this business. I want to order from them."
+
+Build something we can proudly share on Facebook, show to potential customers, and use to help our baking business grow.
+
+Start by analyzing the Facebook page and available content. Then establish the visual direction. After that, build the complete website.
+
+Do not stop at giving me ideas or a design plan. I want you to actually build the website.
+
+------------------------------------------------
+
+go to the facebook link I gave the picture and the business name is SweetTreatsbyChar the product is cakes and the contact details are +639661943736 Her journey didn't begin with a degree or years of formal training, but with a dream, a willingness to learn, and a heart full of passion. Starting from scratch, she taught herself the art of baking, embracing every mistake, every little success, and every lesson along the way. What began as a humble journey grew into something beautiful — turning simple ingredients into cakes and treats made with love, patience, and creativity. Today, every creation tells a little story of perseverance, passion, and the belief that beautiful things can grow from the courage to begin.
