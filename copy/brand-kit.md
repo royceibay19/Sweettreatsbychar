@@ -49,7 +49,7 @@ The palette comes from the logo (raspberry script with a deep berry outline) and
 4. **Cake collection:** the owner's seven categories: Customized, Birthday, Wedding, Number, Anniversary, Bento and Rush cakes. Each gets one line, and Rush cakes say "message us to check availability". The list is easy to edit in one place.
 5. **Signature creations:** an editorial gallery of real photos with short captions.
 6. **Ber Months Promo 2026:** the price list (section 6a below), plus the notes "Printed toppers included", "Extra charge for balls, toys and other toppers" and "Final price depends on your chosen design".
-7. **Souvenirs and giveaways:** solo cupcakes, boxes of 4 cupcakes, bento cakes, bubble-head ref magnets (20 pcs minimum), chip bags and ref magnets. Price on request.
+7. **Souvenirs and giveaways (per piece):** solo cupcake ₱85, box of 4 cupcakes ₱190 per box, bento cake ₱240, chip bag small ₱18, chip bag large ₱35, ref magnet ₱35, bubble-head ref magnet ₱40 (20 pcs minimum), banana cake ₱150, Basque burnt cheesecake plain ₱195, Basque burnt cheesecake with flavor ₱245.
 8. **How to order:** a real sequence, so numbered steps fit: 1) Message us on Messenger 2) Share your theme, date and peg photo 3) We confirm the design and price 4) Pick up your cake in Plaridel.
 9. **Reviews:** the five real Facebook reviews, quoted as written, with first name and last initial.
 10. **Contact and pickup:** Messenger button, phone (call/SMS), pickup address with a Google Maps link, lead time, and an inquiry form that opens a pre-filled message.
