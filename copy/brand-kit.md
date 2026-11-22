@@ -60,7 +60,7 @@ The palette comes from the logo (raspberry script with a deep berry outline) and
 | Package | What's included | Price |
 |---|---|---|
 | One-tier cake + mini cupcakes | 5x4 round cake, 12 pcs 1oz mini cupcakes | ₱820 |
-| Number cake + cupcakes | number cake, 12 pcs cupcakes | ₱820 |
+| Number cake | Number cakes 10" | ₱820 |
 | One-tier cake + 6 cupcakes | 6x4 round cake, 6 pcs 3oz cupcakes | ₱1,099 |
 | One-tier cake + 12 cupcakes | 6x4 round cake, 12 pcs 3oz cupcakes | ₱1,369 |
 | Mini two-tier + mini cupcakes | 6x4 bottom, 4x4 top, 12 pcs 1oz mini cupcakes | ₱1,999 |
