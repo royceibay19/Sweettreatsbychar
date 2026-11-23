@@ -46,7 +46,7 @@ The palette comes from the logo (raspberry script with a deep berry outline) and
 1. **Hero:** the strongest real cake photo, the headline, a one-line welcome, and two buttons: "See the cakes" and "Order on Messenger".
 2. **Trust line:** "100% recommend on Facebook · Made to order · Pick up in Plaridel, Bulacan".
 3. **Our Story:** Char's story, in the owner's own words (self-taught, started from scratch, perseverance).
-4. **Cake collection:** the owner's seven categories: Customized, Birthday, Wedding, Number, Anniversary, Bento and Rush cakes. Each gets one line, and Rush cakes say "message us to check availability". The list is easy to edit in one place.
+4. **Cake collection:** the owner's seven categories: Customized, Birthday, Wedding, Number, Anniversary, Bento and Rush cakes. Each gets one line, and Rush cakes say "message us to check availability". Rush cakes are paid in full upfront, plus a ₱180 rush fee. The list is easy to edit in one place.
 5. **Signature creations:** an editorial gallery of real photos with short captions.
 6. **Ber Months Promo 2026:** the price list (section 6a below), plus the notes "Printed toppers included", "Extra charge for balls, toys and other toppers" and "Final price depends on your chosen design".
 7. **Souvenirs and giveaways (per piece):** solo cupcake ₱85, box of 4 cupcakes ₱190 per box, bento cake ₱240, chip bag small ₱18, chip bag large ₱35, ref magnet ₱35, bubble-head ref magnet ₱40 (20 pcs minimum), banana cake ₱150, Basque burnt cheesecake plain ₱195, Basque burnt cheesecake with flavor ₱245.
